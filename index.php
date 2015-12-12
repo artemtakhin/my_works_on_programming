@@ -1,4 +1,7 @@
 <?php
+
+header('Content-Type: text/html; charset=utf-8');
+
 echo "Привет и добро пожаловать в мини калькулятор на php=) Версия PHP:".phpversion();
 echo "<br><hr>P.S. Это моя первая прога на PHP =)<br><hr>";
 
